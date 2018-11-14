@@ -69,7 +69,7 @@ nav#top ul li a:hover, nav#top ul li a:active {
    text-shadow: 0px 0px 2px black, 0px 0px 15px white;
 }
 
-article p:nth-of-type(2) img {
+article p:nth-of-type(1) img {
    float: right;
    width: 45%;
    margin: 0px 0px 120px 50px;
